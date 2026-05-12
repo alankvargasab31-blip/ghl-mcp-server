@@ -2,9 +2,9 @@
   "name": "ghl-mcp-server",
   "version": "1.0.0",
   "description": "MCP Server for GoHighLevel CRM",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
